@@ -1,3 +1,36 @@
-<equipos>
-    <nombre>Los Angeles Galaxy</nombre>
-</equipos>
+<persona>
+    <nom>Jonás Pitarch</nom>
+    <edat>20</edat>
+    <adreces>
+        <adreca tipus="casa">
+            <carrer>Avinguda Datileres</carrer>
+            <ciutat>Benizahat</ciutat>
+        </adreca>
+        <adreca tipus="oficina">
+            <carrer>Canto del Bobet</carrer>
+            <ciutat>Benigaslo</ciutat>
+            <codiPostal>54321</codiPostal>
+        </adreca>
+    </adreces>
+    <ocupacio>Enginyer de sistemes</ocupacio>
+    <interessos>
+        <interes>Tecnologia</interes>
+        <interes>Literatura</interes>
+        <interes>Viatges</interes>
+    </interessos>
+    <historialContacte>
+        <contacte>
+            <data>2023-01-15</data>
+            <tipus>email</tipus>
+            <detalls>Enviat un informe sobre el projecte X.</detalls>
+        </contacte>
+        <contacte>
+            <data>2023-02-20</data>
+            <tipus>telefon</tipus>
+            <detalls>Discussió sobre el pressupost del projecte Y.</detalls>
+        </contacte>
+    </historialContacte>
+    <notes>
+        <![CDATA[Esta és una persona molt important. Té una gran influència en el sector.]]>
+    </notes>
+</persona>
