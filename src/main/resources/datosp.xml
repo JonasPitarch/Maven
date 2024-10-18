@@ -1,0 +1,17 @@
+<persona>
+    <nom>Jaume Aragó</nom>
+    <edat>68</edat>
+    <adreces>
+        <adreca tipus="casa">
+            <carrer>Avinguda Datileres</carrer>
+            <ciutat>Benizahat</ciutat>
+        </adreca>
+        <adreca tipus="oficina">
+            <carrer>Canto del Bobet</carrer>
+            <ciutat>Benigaslo</ciutat>
+        </adreca>
+    </adreces>
+    <notes>
+        <![CDATA[Esta és una persona molt important.]]>
+    </notes>
+</persona>
