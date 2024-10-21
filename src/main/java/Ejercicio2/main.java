@@ -17,7 +17,7 @@ public class main {
 
                 System.out.println("Nom: " + persona.getNom());
                 System.out.println("Edat: " + persona.getEdat());
-                System.out.println("Contacte: " + persona.get());
+//                System.out.println("Contacte: " + persona.get());
 
 
                 for (Adreca adreca : persona.getAdreces()) {
